@@ -159,8 +159,6 @@ If you have questions or need help integrating the product please [contact us](h
 
 - Copyright 2020 [Creative Tim](https://www.creative-tim.com/?ref=argghost-github-readme)
 
-- Licensed under [MIT](https://github.com/creativetimofficial/ct-argon-ghost-pro/blob/master/LICENSE.md)
-
 
 ## Useful Links
 
