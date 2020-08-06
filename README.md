@@ -2,7 +2,7 @@
 
 
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-ghost-pro.svg?style=flat)](https://github.com/creativetimofficial/ct-argon-ghost-pro/issues?q=is%3Aopen+is%3Aissue) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/creativetimofficial/ct-argon-ghost-pro/blob/master/LICENSE) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-ghost-pro)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-ghost-pro)
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-ghost-pro/website_thumbnail.jpg)
 
