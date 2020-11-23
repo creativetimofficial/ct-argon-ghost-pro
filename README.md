@@ -1,3 +1,9 @@
+<a href="https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf-readme-2020">
+<img border="0" alt="Creative Tim Black Friday Offer" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/bf-github-banner.png" >
+</a>
+
+
+
 # [Argon Ghost Pro](https://creative-tim.com/product/argon-ghost-pro)[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Argon%20Ghost%20Pro,%20a%20cool%20magazine%20theme%20built%20for%20Ghost%20by%20Creative%20Tim.%20https://argon-ghost-pro.creative-tim.com/&via=CreativeTim%20%23argon%20%23designsystem%20%23developers)
 
 
